@@ -60,25 +60,28 @@ You may use, share, and adapt this work **for non-commercial research and academ
 ## Citation
 If you use this code or its concepts in your research, please cite the following publication:
 
-**Minimalist Preprocessing Approach for Image Synthesis Detection**  
-Hoai-Danh Vo, Trung-Nghia Le  
+**Decoding Deepfakes: Caption Guided Learning for Robust Deepfake Detection**  
+Y-Hop Nguyen, Trung-Nghia Le  
 *Information and Communication Technology (SOICT 2024), Communications in Computer and Information Science, vol 2350, Springer, Singapore, 2025.*  
-[https://link.springer.com/chapter/10.1007/978-981-96-4282-3_8](https://link.springer.com/chapter/10.1007/978-981-96-4282-3_8)
+[https://link.springer.com/chapter/10.1007/978-981-96-4282-3_7](https://link.springer.com/chapter/10.1007/978-981-96-4282-3_7)
 
 ```bibtex
-@inproceedings{Vo2025MinimalistPA,
-  author={Vo, Hoai-Danh and Le, Trung-Nghia},
+@inproceedings{nguyen2024decoding,
+  title={Decoding Deepfakes: Caption Guided Learning for Robust Deepfake Detection},
+  author={Nguyen, Y-Hop and Le, Trung-Nghia},
   booktitle={Information and Communication Technology},
-  doi={10.1007/978-981-96-4282-3_8},
+  doi={10.1007/978-981-96-4282-3_7},
   editor={Buntine, Wray and Fjeld, Morten and Tran, Truyen and Tran, Minh-Triet and Huynh Thi Thanh, Binh and Miyoshi, Takumi},
-  isbn={978-981-96-4281-6},
-  pages={88-99},
+  isbn={978-981-96-4282-3},
+  pages={77-87},
   publisher={Springer Nature Singapore},
   title={Minimalist Preprocessing Approach for Image Synthesis Detection},
   year={2025}
 }
 ```
-[Download BibTeX file](https://citation-needed.springer.com/v2/references/10.1007/978-981-96-4282-3_8?format=bibtex&flavour=citation)
+
+
+[Download BibTeX file](https://citation-needed.springer.com/v2/references/10.1007/978-981-96-4282-3_7?format=bibtex&flavour=citation)
 
 ---
 
@@ -89,7 +92,7 @@ This section provides additional details about the academic paper that describes
 **Decoding Deepfakes: Caption Guided Learning for Robust Deepfake Detection**  
 Y-Hop Nguyen, Trung-Nghia Le  
 *Information and Communication Technology (SOICT 2024), Communications in Computer and Information Science, vol 2350, Springer, Singapore, 2025.*  
-[https://link.springer.com/chapter/10.1007/978-981-96-4282-3_8](https://link.springer.com/chapter/10.1007/978-981-96-4282-3_8)
+[https://link.springer.com/chapter/10.1007/978-981-96-4282-3_7](https://link.springer.com/chapter/10.1007/978-981-96-4282-3_7)
 
 **Abstract:**
 > The rapid development of generative image models has raised concerns about misuse, especially in journalism and media. Therefore, developing tools for detecting fake images is essential. However, many current methods focus on short-term gains and lack long-term adaptability. This paper focuses on detecting deepfakes across various types of image data, such as faces, landscapes, objects, and scenes, using the visual-language CLIP model. Although CLIP has shown potential in deepfake detection, it has yet to clarify why it performs effectively in this task. Our analysis shows that CLIP’s combination of image features enhances the model’s generalization capability. By extracting image features trained for the deepfake detection task and generating captions through a text-decoding model, we demonstrate its effectiveness. Based on these findings, we introduce a novel method that enables the learning of forgery features and semantic features to improve generalization in
