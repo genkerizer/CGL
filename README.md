@@ -1,6 +1,11 @@
 # **[Caption Guided Learning with Lora for Generalizable Deepfake Detection]**
 
-This repository is an official implementation of the CVPR 2024 paper "Caption Guided Learning with Lora for Generalizable Deepfake Detection".
+<p align="center">
+<img src="https://img.shields.io/aur/last-modified/google-chrome">
+<img src="https://img.shields.io/badge/Author-Y--Hop.Nguyen-red"> 
+</p>
+
+This repository is an official implementation of the S 2024 paper "Caption Guided Learning with Lora for Generalizable Deepfake Detection".
 
 
 # Introduction
